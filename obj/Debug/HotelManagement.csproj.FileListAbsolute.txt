@@ -1,0 +1,13 @@
+F:\ProgrammingProjects\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+F:\ProgrammingProjects\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
+F:\ProgrammingProjects\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
+F:\ProgrammingProjects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csprojAssemblyReference.cache
+F:\ProgrammingProjects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
+F:\ProgrammingProjects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+F:\ProgrammingProjects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+F:\ProgrammingProjects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+F:\ProgrammingProjects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
+F:\ProgrammingProjects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Forms.FormAuth.resources
+F:\ProgrammingProjects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Forms.FormAdmin.resources
+F:\ProgrammingProjects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Forms.FormManager.resources
+F:\ProgrammingProjects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.ResolveComReference.cache
